@@ -1,4 +1,4 @@
-# NextJSkk - Configuring Caching
+# NextJS - Configuring Caching
 A NextJS case study application where I tested several NextJS caching methods to assure updating data. The project allowed me some insight on how NextJS optimizes data fetching and page rendering.
 
 ## Setup
